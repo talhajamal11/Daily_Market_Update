@@ -1,4 +1,12 @@
 # Ignore the Virtual Environment
 .venv/
+.vscode/
+
+# Ignore Mac Files
 *.DS_Store
 
+# Ignore API KEY
+data/api_key.json
+
+# Ignore file that should be deleted
+daily_market_update/

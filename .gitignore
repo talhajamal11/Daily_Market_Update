@@ -6,7 +6,7 @@
 *.DS_Store
 
 # Ignore API KEY
-data/api_key.json
+data/SIGTECH_API_KEY.json
 
 # Ignore file that should be deleted
 daily_market_update/

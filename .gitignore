@@ -10,3 +10,6 @@ data/api_key.json
 
 # Ignore file that should be deleted
 daily_market_update/
+
+# Ignore pycache files
+__pycache__
